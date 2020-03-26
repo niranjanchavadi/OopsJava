@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.userRegistrtiontest.java.TestUserRegistration" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-23T08:59:44" hostname="DESKTOP-NK2QSNJ" time="0.008">
+  <properties/>
+  <testcase name="checkForInvalidpasswd" classname="com.userRegistrtiontest.java.TestUserRegistration" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
